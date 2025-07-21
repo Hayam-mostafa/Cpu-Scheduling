@@ -45,5 +45,3 @@
   
   Compare the results of all algorithms on the same screen.
 
-## If you have any suggestions or comments, feel free to share them.##
-
